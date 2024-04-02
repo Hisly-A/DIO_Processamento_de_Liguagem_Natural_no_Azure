@@ -1,4 +1,4 @@
-# DIO_Processamento_de_Liguagem_Natural_no_Azure
+# DIO - Processamento de Liguagem Natural no Azure
 Análise de Sentimentos com Language Studio no Azure AI
 
 ## 🔎 O que é o Azure AI Speech?	
@@ -12,7 +12,7 @@ Análise de Sentimentos com Language Studio no Azure AI
 
 Em outra guia do navegador, abra o Azure AI Speech Studio (https://speech.microsoft.com/portal), entrando com sua conta da Microsoft.
 
-Clique em **Settings** e depois **Create a resource**. Configure-o da seguinte forma:
+Clique em **Settings** e depois **+ Create a resource**. Configure-o da seguinte forma:
 - *Name of new resource*: Informe um nome exclusivo.
 - *Subscription*: Sua assinatura do Azure.
 - *Region*: Selecione uma região suportada.
@@ -22,8 +22,6 @@ Clique em **Settings** e depois **Create a resource**. Configure-o da seguinte f
 Clique em ```Create resource```. Aguarde até que o recurso seja criado e clique em **Use resource**.
 
 ## Explore a fala em texto no Speech Studio
-Abra o link <https://aka.ms/mslearn-speech-files> para baixar o speech.zip. Abra a pasta.
-
 Na página **Get started with Speech**, em **Speech to text**, localize **Real-time speech to text**. Clique em **Try out Real-time speech to text**.
 
 Clique em ```Browse files```, navegue até a pasta onde você salvou o arquivo **WhatAICanDo.m4a** e abra.
