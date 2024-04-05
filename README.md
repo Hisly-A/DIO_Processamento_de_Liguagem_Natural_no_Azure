@@ -46,7 +46,7 @@ Na página **Create Language**, configure da seguinte forma:
 - *Region*: Leste dos EUA.
 - *Name*: Insira um nome exclusivo.
 - *Pricing tier*: F0 grátis ou S se F0 grátis não estiver disponível.
-- *Marcar o campo*: I acknowledge that I have read and understood all the terms below.
+- *Marcar o campo*: By checking this box I acknowledge that I have read and understood all the terms below.
 
 Clique em ```Review + create``` e depois ```Create``` e aguarde a conclusão da implantação.
 
@@ -62,9 +62,8 @@ Em **Select an Azure resource**, faça as seguintes configurações:
 Clique em ```Done```.
 
 ## Analise de avaliações no Language Studio
-Acesse o Language Studio em https://language.cognitive.azure.com.
 
-Na página inicial clique em ```Classify text``` e, em seguida, selecione o bloco **Analyze sentiment and mine opinions**.
+Na página inicial do **Language Studio** clique em ```Classify text``` e, em seguida, selecione o bloco **Analyze sentiment and mine opinions**.
 
 Em **Select text language**, selecione Inglês.
 
