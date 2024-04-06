@@ -19,12 +19,12 @@ Clique em **Settings** e depois **+ Create a resource**. Configure-o da seguinte
 - *Pricing tier*: FO gratuito (se disponível, caso contrário, selecione Padrão S0).
 - *Resource group*: Selecione ou crie um grupo de recursos com um nome exclusivo.
 
-Clique em ```Create resource```. Aguarde até que o recurso seja criado e clique em **Use resource**.
+Clique em ```Create resource```. Aguarde até que o recurso seja criado e clique em **Use the feature**.
 
 ## Explore a fala em texto no Speech Studio
-Na página **Get started with Speech**, em **Speech to text**, localize **Real-time speech to text**. Clique em **Try out Real-time speech to text**.
+Na página **Get started with Speech**, em **Speech to text**, localize **Real-time speech to text**. Clique em `Try out Real-time speech to text`.
 
-Clique em ```Browse files```, navegue até a pasta onde você salvou o arquivo **WhatAICanDo.m4a** e abra.
+Clique em `Browse files`, navegue até a pasta onde o arquivo desejado foi salvo e abra.
 
 O serviço Speech transcreve e exibe o texto em tempo real.
 
@@ -57,9 +57,9 @@ Em **Select an Azure resource**, faça as seguintes configurações:
 - *Azure directory*: Diretório padrão, o diretório que você está usando;
 - *Azure subscription*: Selecione a assinatura que você está usando;
 - *Resource type*: Idioma;
-- *Resource name*: Selecione o recurso de serviço de idioma que você acabou de criar.
+- *Resource name*: Selecione o recurso de serviço de idioma criado.
 
-Clique em ```Done```.
+Clique em `Done`.
 
 ## Analise de avaliações no Language Studio
 
@@ -69,14 +69,7 @@ Em **Select text language**, selecione Inglês.
 
 Em **Select your Azure resource**, selecione seu recurso.
 
-Em **Enter your own text**, carregue um arquivo ou use o seguinte texto de exemplo:
-
-```
- Tired hotel with poor service
- The Royal Hotel, London, United Kingdom
- 5/6/2018
- This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
-```
+Em **Enter your own text**, use o seguinte texto de exemplo: [Avaliações de hotéis]
 
 Marque a caixa para confirmar que a demonstração incorrerá em uso e poderá incorrer em custos e clique em ```Run```.
 
@@ -84,20 +77,7 @@ Revise a saída. Observe que o documento é analisado quanto ao sentimento, assi
 
 Observe que há um sentimento geral seguido por pontuações próximas a três categorias: pontuação positiva , pontuação neutra e pontuação negativa. Em cada uma das categorias é atribuída uma pontuação entre 0 e 1. Essas pontuações de confiança indicam a probabilidade do texto fornecido ser um sentimento específico.
 
-Selecione a frase 1 novamente para fechar.
-
 Clique em ```Clear text box``` e copie e cole a seguinte revisão:
-
-```
- Good Hotel and staff
- The Royal Hotel, London, UK
- 3/2/2018
- Clean rooms, good service, great location near Buckingham Palace and Westminster Abbey, and so on. We thoroughly enjoyed our stay. The courtyard is very peaceful and we went to a restaurant which is part of the same group and is Indian ( West coast so plenty of fish) with a Michelin Star. We had the taster menu which was fabulous. The rooms were very well appointed with a kitchen, lounge, bedroom and enormous bathroom. Thoroughly recommended.
-```
-
-Clique em ```Run```. Revise o resultado, o sentimento e o nível de confiança.
-
-Clique em ```Clear text box``` novamente e copie e cole a seguinte revisão:
 
 ```
 Very noisy and rooms are tiny The Lombard Hotel, San Francisco, USA 9/5/2018 Hotel is located on Lombard street which is a very busy SIX lane street directly off the Golden Gate Bridge. Traffic from early morning until late at night especially on weekends. Noise would not be so bad if rooms were better insulated but they are not. Had to put cotton balls in my ears to be able to sleep–was too tired to enjoy the city the next day. Rooms are TINY. I picked the room because it had two queen size beds–but the room barely had space to fit them. With family of four in the room it was tight. With all that said, rooms are clean and they’ve made an effort to update them. The hotel is in Marina district with lots of good places to eat, within walking distance to Presidio. May be good hotel for young stay-up-late adults on a budget
